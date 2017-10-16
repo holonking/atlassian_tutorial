@@ -1,3 +1,4 @@
 cmp	initialized a git repository
 wip	feature_01 step1
 wip	feature_01 step2
+wip	feature_01 sub_tep1

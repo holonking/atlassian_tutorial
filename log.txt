@@ -1,2 +1,2 @@
 cmp	initialized a git repository
-wip	step 1
+wip	feature_01 step1
